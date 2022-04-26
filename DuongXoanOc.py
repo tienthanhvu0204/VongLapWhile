@@ -1,4 +1,3 @@
-from math import dist
 import turtle
 screen = turtle.Screen ()
 screen.setup (1000, 1000)
