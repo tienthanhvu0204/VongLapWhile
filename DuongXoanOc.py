@@ -1,4 +1,3 @@
-from ast import While
 from math import dist
 import turtle
 screen = turtle.Screen ()
